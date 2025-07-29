@@ -1,0 +1,13 @@
+Timestamp (ms),Distance (cm),Notes
+503,15.2,Object at ~15 cm
+1005,15.1,Object still at ~15 cm
+1507,25.8,Object moved slightly further
+2009,5,Object moved very close
+2511,5.1,Object still very close
+3013,45.3,Object moved further away
+3515,0,Sensor blocked / no object detected
+4017,0,Sensor blocked / no object detected
+4519,10.4,Object moved closer again
+5021,10.3,Object still at ~10 cm
+5523,70,Object very far or out of range
+6025,70.1,Object very far or out of range
